@@ -36,7 +36,9 @@ Large-scale Graph Processing & Analysis, Large-scale Graph Learning, Network/Gra
 Publications
 ======
 Articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=h6gVF8YAAAAJ) or [here](publications/).
-<!-- 1.  Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci, 2022, 65: 112101
+
+<!-- 
+1.  Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci, 2022, 65: 112101
 1. **Yingxia Shao**, Shiyue Huang, Yawen Li, Xupeng Miao, Bin Cui, Lei Chen, Memory-Aware Framework for Fast and Scalable Second-Order Random Walk over Billion-Edge Natural Graphs, VLDBJ 2021
 1.  Jiaxu Liu, **Yingxia Shao**, Sen Su, Multiple Local Community Detection via High-Quality Seed Identification over Both Static and Dynamic Networks, Data Science and Engineering, 2021 
 1. Fangcheng Fu, **Yingxia Shao**, Lele Yu, Jiawei Jiang, Huanran Xue, Yangyu Tao, Bin Cui, VF^2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning, SIGMOD 2021
@@ -55,7 +57,6 @@ Articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=h6g
 1. Minxu zhang, **Yingxia Shao**, Kai Lei, Yuesheng Zhu, Bin Cui, Densely-connected Transformer with Co-attentive Information for Matching Text Sequences, APWeb-WAIM 2020
 1. Wentao Zhang, Jiawei Jiang, **Yingxia Shao**, Bin Cui. Snapshot Boosting: A Fast Ensemble Framework for Deep Neural Networks. Sci China Inf Sci, 2020, 63(1): 112102
 1. Yushun Dong, **Yingxia Shao**, Xiaotong Li, Sili Li, Lei Quan, Wei Zhang, Junping Du, Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model, CIKM 2019
-<!-- CNN Compression-Recovery Framework via Rank Allocation Decomposition with Knowledge Transfer -->
 1. Fangcheng Fu, Jiawei Jiang, **Yingxia Shao**, Bin Cui. An Experimental Evaluation of Large Scale GBDT Systems. VLDB 2019
 1. **Yingxia Shao**, Jialin Liu, Shuyang Shi, Yuemei Zhang, Bin Cui. Fast De-anonymization of Social Networks with Structural Information, Data Science and Engineering, (2019) 4: 76.
 1. Zhipeng Zhang, Bin Cui, **Yingxia Shao**, Lele Yu, Jiawei Jiang, Xupeng Miao. PS2: Parameter Server on Spark. SIGMOD 2019
@@ -69,7 +70,7 @@ Academic Services
 - Selected Conference PC Membership
     - VLDB: 2019, 2022 (Demo PC)
     - ICDE: 2022
-    - KDD: 2019, 2020, 2021
+    - KDD: 2019, 2020, 2021, 2022
     - AAAI: 2019, 2020, 2021，2022 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021 (SPC), 2022
     <!-- Honors
@@ -77,13 +78,13 @@ Academic Services
     - ACL: 2021
     - EMNLP: 2021
     -->
-    - DASFAA: 2020 (Publicity Co-Chair), 2021
+    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022
 <!-- Honors
     - APWeb-WAIM: 2017, 2018, 2019, 2020，2021
 -->
 
 - Journal Reviewers
-    - VLDBJ, TKDE, TPDS, WWWJ, DSE
+    - VLDBJ, TKDE, TPDS, WWWJ, DSE, BigData
 
 Research Grants
 =====
