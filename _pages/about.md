@@ -31,7 +31,7 @@ Candidates who are interested please contact me directly.
 
 Research Interests
 ======
-Knowledge Graph Management, Network/Graph Representation, Large-scale Graph Processing & Analysis
+Large-scale Graph Processing & Analysis, Large-scale Graph Learning, Network/Graph Representation 
 
 Publications
 ======
