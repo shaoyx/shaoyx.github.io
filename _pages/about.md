@@ -33,11 +33,11 @@ Research Interests
 ======
 Knowledge Graph Management, Network/Graph Representation, Large-scale Graph Processing & Analysis
 
-Selected Publications
+Publications
 ======
-More articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=h6gVF8YAAAAJ) or [here](publications/).
+Articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=h6gVF8YAAAAJ) or [here](publications/).
+<!-- 1.  Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci, 2022, 65: 112101
 1. **Yingxia Shao**, Shiyue Huang, Yawen Li, Xupeng Miao, Bin Cui, Lei Chen, Memory-Aware Framework for Fast and Scalable Second-Order Random Walk over Billion-Edge Natural Graphs, VLDBJ 2021
-1.  Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci (to appear)
 1.  Jiaxu Liu, **Yingxia Shao**, Sen Su, Multiple Local Community Detection via High-Quality Seed Identification over Both Static and Dynamic Networks, Data Science and Engineering, 2021 
 1. Fangcheng Fu, **Yingxia Shao**, Lele Yu, Jiawei Jiang, Huanran Xue, Yangyu Tao, Bin Cui, VF^2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning, SIGMOD 2021
 1. Xingyu Yao, **Yingxia Shao**, Bin Cui, Lei Chen, UniNet: Scalable Network Representation Learning with Metropolis-Hastings Sampling, ICDE 2021, [Code](https://github.com/shaoyx/UniNet)
@@ -62,17 +62,25 @@ More articles on [Google Scholar](https://scholar.google.com/citations?hl=en&use
 1. Yongqi Zhang, Quanming Yao, **Yingxia Shao**, Lei Chen. NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding, ICDE 2019
 1. Jinyang Gao, Junjie Yao, **Yingxia Shao**. Towards Reliable Learning for High Stakes Applications, AAAI 2019
 1. Haobao Sun, **Yingxia Shao**, Jiawei Jiang, Bin Cui, Kai Lei, Yu Xu, Jiang Wang. Sparse Gradient Compression for Distributed SGD, DASFAA 2019
-1. Huanran Xue, Jiawei Jiang, **Yingxia Shao**, Bin Cui. FeatureBand: A Feature Selection Method by Combining Early Stopping and Genetic Local Search. APWeb-WAIM 2019
+1. Huanran Xue, Jiawei Jiang, **Yingxia Shao**, Bin Cui. FeatureBand: A Feature Selection Method by Combining Early Stopping and Genetic Local Search. APWeb-WAIM 2019 -->
 
 Academic Services
 ======
 - Selected Conference PC Membership
-    - VLDB: 2019
+    - VLDB: 2019, 2022 (Demo PC)
+    - ICDE: 2022
     - KDD: 2019, 2020, 2021
-    - AAAI: 2019, 2020, 2021
-    - IJCAI: 2018, 2019, 2020, 2021 (SPC)
+    - AAAI: 2019, 2020, 2021，2022 (SPC)
+    - IJCAI: 2018, 2019, 2020, 2021 (SPC), 2022
+    <!-- Honors
+    - WSDM: 2022
+    - ACL: 2021
+    - EMNLP: 2021
+    -->
     - DASFAA: 2020 (Publicity Co-Chair), 2021
+<!-- Honors
     - APWeb-WAIM: 2017, 2018, 2019, 2020，2021
+-->
 
 - Journal Reviewers
     - VLDBJ, TKDE, TPDS, WWWJ, DSE

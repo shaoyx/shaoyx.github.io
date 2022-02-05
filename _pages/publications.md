@@ -9,17 +9,27 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <!-- {% endif %} -->
 
 {% include base_path %}
+2022
+====
+1. Shitao Xiao, Zheng Liu, Weihao Han, Jianjin Zhang, **Yingxia Shao**, Defu Lian, Chaozhuo Li, Hao Sun, Denvy Deng, Liangjie Zhang, Qi Zhang, Xing Xie, Progressively Optimized Bi-Granular Document Representation for Scalable Embedding Based Retrieval, WWW 2022 (to appear)
+1. Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci, 2022, 65: 112101
+1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture, ICDE 2022 (TKDE Poster)
+1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang, CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs, TKDE (to appear)
+1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture, TKDE (to appear)
+
 2021
 ====
+1. Shitao Xiao, Zheng Liu, **Yingxia Shao**, Defu Lian, Xing Xie. Matching-oriented Embedding Quantization For Ad-hoc Retrieval, EMNLP 2021
 1. **Yingxia Shao**, Shiyue Huang, Yawen Li, Xupeng Miao, Bin Cui, Lei Chen, Memory-Aware Framework for Fast and Scalable Second-Order Random Walk over Billion-Edge Natural Graphs, VLDBJ 2021
-1.	Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci (to appear)
-1.  Jiaxu Liu, **Yingxia Shao**, Sen Su, Multiple Local Community Detection via High-Quality Seed Identification over Both Static and Dynamic Networks, Data Science and Engineering, 2021 
+1. Jiaxu Liu, **Yingxia Shao**, Sen Su, Multiple Local Community Detection via High-Quality Seed Identification over Both Static and Dynamic Networks, Data Science and Engineering, 2021 
 1. Fangcheng Fu, **Yingxia Shao**, Lele Yu, Jiawei Jiang, Huanran Xue, Yangyu Tao, Bin Cui, VF^2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning, SIGMOD 2021
+1. Xupeng Miao, Xiaonan Nie, **Yingxia Shao**, Zhi Yang, Jiawei Jiang, Lingxiao Ma, Bin Cui, Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce, SIGMOD 202
 1. Xingyu Yao, **Yingxia Shao**, Bin Cui, Lei Chen, UniNet: Scalable Network Representation Learning with Metropolis-Hastings Sampling, ICDE 2021
+1. Xupeng Miao, Nezihe Merve Gürel, Wentao Zhang, Zhichao Han, Bo Li, wei min, Susie Xi Susie Rao, Hansheng Ren, Yinan Shan, **Yingxia Shao**, et. al. DeGNN: Improving Graph Neural Networks with Graph Decomposition, KDD 2021
 1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang, CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs, ICDE 2021 (TKDE Poster)
-1. Xiangguo Sun, Hongzhi Yin, Bo Liu, Hongxu Chen, Jiuxin Cao, **Yingxia Shao**, Nguyen Quoc Viet Hung, Heterogeneous Hypergraph Embedding for Graph Classification, WSDM 2021
 1. **Yingxia Shao**, Xupeng Li, Yiru Chen, Lele Yu, Bin Cui, Sys-TM: A Fast and General Topic Modeling System, TKDE 2021
-1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang, CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs, TKDE (to appear)
+1. Xiangguo Sun, Hongzhi Yin, Bo Liu, Hongxu Chen, Jiuxin Cao, **Yingxia Shao**, Nguyen Quoc Viet Hung, Heterogeneous Hypergraph Embedding for Graph Classification, WSDM 2021
+1. Xin Xia, Hongzhi Yin, Junliang Yu, **Yingxia Shao**, Lizhen Cui. Self-Supervised Co-Training for Session-based Recommendation, CIKM 2021 
 
 2020
 ====
