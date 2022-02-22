@@ -68,20 +68,14 @@ Articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=h6g
 Academic Services
 ======
 - Selected Conference PC Membership
-    - VLDB: 2019, 2022 (Demo PC)
+    - VLDB: 2019, 2022 (Demo PC), VLDB 2023
     - ICDE: 2022
     - KDD: 2019, 2020, 2021, 2022
     - AAAI: 2019, 2020, 2021，2022 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021 (SPC), 2022
-    <!-- Honors
-    - WSDM: 2022
-    - ACL: 2021
-    - EMNLP: 2021
-    -->
+    <!-- Honors WSDM: 2022 ACL: 2021 EMNLP: 2021 -->
     - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022
-<!-- Honors
-    - APWeb-WAIM: 2017, 2018, 2019, 2020，2021
--->
+<!-- onors - APWeb-WAIM: 2017, 2018, 2019, 2020，2021-->
 
 - Journal Reviewers
     - VLDBJ, TKDE, TPDS, WWWJ, DSE, BigData
