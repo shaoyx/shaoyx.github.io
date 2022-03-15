@@ -20,7 +20,7 @@ Yingxia Shao is an Associate Professor at School of Computer Science, Beijing Un
 He obtained his PhD from Peking University 2016, advised by [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 He worked with [Prof. Lei Chen](http://www.cs.ust.hk/~leichen/) as a visiting scholar at HKUST in 2013 and 2014.
 He has served in the Technical Program Committee of various international conferences including VLDB, KDD, AAAI, IJCAI, BigData, APWeb-WAIM and MDM. He is serving as a reviewer of international journals including VLDBJ, WWWJ, DSE. 
-He was awarded Google PhD Fellowship (2014), MSRA Fellowship (2014), PhD National Scholarship of MOE China (2014), ACM SIGMOD China Doctoral Dissertation Award (2017), MSRA Star-Track Young Scholar Program (2019).
+He was awarded Google PhD Fellowship (2014), MSRA Fellowship (2014), PhD National Scholarship of MOE China (2014), ACM SIGMOD China Doctoral Dissertation Award (2017), MSRA Star-Track Young Scholar Program (2019), ACM SIGMOD China Rising Star Award (2021).
 
 He is a member of ACM, member of IEEE, senior member of CCF and member of China Database technical committee.
 
