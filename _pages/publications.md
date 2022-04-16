@@ -11,7 +11,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% include base_path %}
 2022
 ====
-1. Shitao Xiao, Zheng Liu, Weihao Han, Jianjin Zhang, **Yingxia Shao**, Defu Lian, Chaozhuo Li, Hao Sun, Denvy Deng, Liangjie Zhang, Qi Zhang, Xing Xie, [Progressively Optimized Bi-Granular Document Representation for Scalable Embedding Based Retrieval](), WWW 2022 (to appear)
+1. Hongzheng Li, **Yingxia Shao**, Junping Du, Bin Cui, Lei Chen, [An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs](), VLDB 2022
+1. Jingshu Peng, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen, Jiannong Cao. [Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks](), VLDB 2022
+1. Shitao Xiao, Zheng Liu, Weihao Han, Jianjin Zhang, **Yingxia Shao**, Defu Lian, Chaozhuo Li, Hao Sun, Denvy Deng, Liangjie Zhang, Qi Zhang, Xing Xie, [Progressively Optimized Bi-Granular Document Representation for Scalable Embedding Based Retrieval](), WWW 2022
+1. Shitao Xiao, Zheng Liu, Weihao Han, Defu Lian, Yeyun Gong, Qi Chen, Fan Yang, Hao Sun, **Yingxia Shao**, Xing Xie. [Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings](), SIGIR 2022
+2. Tianyu Zhao, Cheng Yang, Yibo Li, Quan Gan, Zhenyi Wang, Fengqi Liang, Huan Zhao, **Yingxia Shao**, Xiao Wang and Chuan Shi. [Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network](), SIGIR 2022
 1. Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, [LECF: Recommendation via Learnable Edge Collaborative Filtering](), Sci China Inf Sci, 2022, 65: 112101
 1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. [A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture](), ICDE 2022 (TKDE Poster)
 1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang, [CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs](), TKDE (to appear)
