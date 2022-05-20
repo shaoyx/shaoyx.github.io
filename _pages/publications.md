@@ -13,6 +13,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ====
 1. Hongzheng Li, **Yingxia Shao**, Junping Du, Bin Cui, Lei Chen, [An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs](), VLDB 2022
 1. Jingshu Peng, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen, Jiannong Cao. [Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks](), VLDB 2022
+1. Shitao Xiao, Zheng Liu, **Yingxia Shao**, Tao Di, Fangzhao Wu, Bhuvan Middha, Xing Xie. [Training Large-Scale News Recommenders with Pretrained Language Models in the Loop](), KDD 2022
+1. Jianjin Zhang, Zheng Liu, Weihao Han, Shitao Xiao, Ruicheng Zheng, **Yingxia Shao**, Hao Sun, Hanqing zhu, Premkumar Srinivasan, Weiwei Deng, Qi Zhang, Xing Xie. [Uni-Retriever: Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](), KDD 2022
 1. Shitao Xiao, Zheng Liu, Weihao Han, Jianjin Zhang, **Yingxia Shao**, Defu Lian, Chaozhuo Li, Hao Sun, Denvy Deng, Liangjie Zhang, Qi Zhang, Xing Xie, [Progressively Optimized Bi-Granular Document Representation for Scalable Embedding Based Retrieval](), WWW 2022
 1. Shitao Xiao, Zheng Liu, Weihao Han, Defu Lian, Yeyun Gong, Qi Chen, Fan Yang, Hao Sun, **Yingxia Shao**, Xing Xie. [Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings](), SIGIR 2022
 2. Tianyu Zhao, Cheng Yang, Yibo Li, Quan Gan, Zhenyi Wang, Fengqi Liang, Huan Zhao, **Yingxia Shao**, Xiao Wang and Chuan Shi. [Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network](), SIGIR 2022
