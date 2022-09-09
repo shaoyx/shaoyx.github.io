@@ -74,7 +74,7 @@ Academic Services
     - AAAI: 2019, 2020, 2021，2022 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021, 2022
     <!-- Honors WSDM: 2022 ACL: 2021 EMNLP: 2021 -->
-    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022
+    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022, 2023 (Publication Co-Chair)
 <!-- onors - APWeb-WAIM: 2018, 2019, 2020，2022-->
 
 - Journal Reviewers
