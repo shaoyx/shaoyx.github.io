@@ -21,6 +21,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, [LECF: Recommendation via Learnable Edge Collaborative Filtering](), Sci China Inf Sci, 2022, 65: 112101
 1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. [A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture](), ICDE 2022 (TKDE Poster)
 1. Hongbo Yin, **Yingxia Shao**, Xupeng Miao, Yawen Li, Bin Cui. Scalable Graph Sampling on GPUs with Compressed Graph, CIKM 2022.
+1. Shitao Xiao, Zheng Liu, **Yingxia Shao**, Zhao Cao. [RetroMAE: Pre-training Retrieval-oriented Transformers via Masked Auto-Encoder](), EMNLP 2021
 1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang, [CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs](), 34(9):4119-4132, TKDE 2022
 1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. [A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture](), TKDE (to appear)
 
@@ -83,9 +84,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 Chinese Journals
 ======
-1. Shitao Xiao, **Yingxia Shao**, Weiping Song, Bin Cui, Hybrid Score Function for Collaborative Filtering Recommendation, Computer Science, 2021, 48(3):113-118 (in Chinese)
-1. Jiang Jiawei, Fu Fangchen, **Shao Yingxia**, Cui Bin. Ruan Jian Xue ao/Journal of Software, 2018,29(3):1−14 (in Chinese)
+1. Jiaxin Yang, Junping Du, **Yingxia Shao**, Ang Li, Junqing Xi. Construction Method of Intellectual-property-oriented Scientific and Technological Resources Portrait. Ruan Jian Xue Bao/Journal of Software, 2022, 33(4):1439−1450 (in Chinese)
+1. Shitao Xiao, **Yingxia Shao**, Weiping Song, Bin Cui. Hybrid Score Function for Collaborative Filtering Recommendation, Computer Science, 2021, 48(3):113-118 (in Chinese)
+1. Jiang Jiawei, Fu Fangchen, **Shao Yingxia**, Cui Bin. Distributed Gradient Boosting Decision Tree Algorithm for High-dimensional and Multi-classification Problems. Ruan Jian Xue ao/Journal of Software, 2018,29(3):1−14 (in Chinese)
 1. Shi Shuyang, Zhang Zhipeng, Guo Long, **Shao Yingxia**, Cui Bin. Resume Activeness Prediction in Online Recruitment Scenarios. Journal of Frontiers of Computer Science and Technology, 2018, 12(5): 730-740 (in Chinese)
 1. Jialin Liu, Shuyang Shi, Yuemei Zhang, **Yingxia Shao**, Bin Cui. RoleMatch: An effective and efficient approach of graph deanonymization. Ruan Jian Xue Bao/Journal of Software, 2018,29(3):1−14 (in Chinese)
-1. Quanglong Huang, Yanxiang Huang, **Yingxia Shao**, Jia Meng, Xinqi Ren, Bin Cui, Shicong Feng, HybriG: A Distributed Architecture for Property Graph with Large Set of Multi-edges, Chinese Journal of Computers 2017,40(61) (in Chinese)
+1. Quanglong Huang, Yanxiang Huang, **Yingxia Shao**, Jia Meng, Xinqi Ren, Bin Cui, Shicong Feng. HybriG: A Distributed Architecture for Property Graph with Large Set of Multi-edges, Chinese Journal of Computers 2017,40(61) (in Chinese)
 1. **Yingxia Shao**, Bin Cui, Lin Ma, Hongzhi Yin, A Fast Sketch-based Approach of Top-k Closeness Centrality Search on Large Networks, Chinese Journal of Computers, 2016,39(10):1965-1978 (in Chinese)

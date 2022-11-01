@@ -71,11 +71,12 @@ Academic Services
     - VLDB: 2019, 2022 (Demo PC), VLDB 2023
     - ICDE: 2022, 2023
     - KDD: 2019, 2020, 2021, 2022
-    - AAAI: 2019, 2020, 2021，2022 (SPC)
+    - AAAI: 2019, 2020, 2021，2022 (SPC), 2023 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021, 2022
-    <!-- Honors WSDM: 2022 ACL: 2021 EMNLP: 2021 -->
+    <!-- WSDM: 2022, 2023 ACL: 2021 EMNLP: 2021 -->
     - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022, 2023 (Publication Co-Chair)
-<!-- onors - APWeb-WAIM: 2018, 2019, 2020，2022-->
+    - PAKDD: 2023 (SPC)
+<!-- APWeb-WAIM: 2018, 2019, 2020，2022-->
 
 - Journal Reviewers
     - VLDBJ, TKDE, TPDS, TNNLS, TBD, WWWJ, DSE
