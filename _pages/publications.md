@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Lei Chen. DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU, SIGMOD 2023
 1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. [A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture](), TKDE 2023
 1. Ang Li, Yawen Li, **Yingxia Shao**, Bingyan Liu. Multi-View Scholar Clustering With Dynamic Interest Tracking, TKDE 2023 (Accepted)
-1. Chaofan Li, Zheng Liu, Shitao Xiao, **Yingxia Shao**, Defu Lian, Zhao Cao. LibVQ: A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval, SIGIR (Demo) 2023 (Accepted)
+1. Chaofan Li, Zheng Liu, Shitao Xiao, **Yingxia Shao**, Defu Lian, Zhao Cao. LibVQ: A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval (Demo), SIGIR 2023 (Accepted)
 
 2022
 ====
