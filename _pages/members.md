@@ -12,18 +12,18 @@ author_profile: true
 
 | No. | Name| Type | Year | 
 | --- | --- | ----- | ----- |
-| 1 | Shitao Xiao | MSc | 2020 |
-| 2 | Hongbo Yin | MSc | 2020 |
-| 3 | Haijiang Wang | MSc | 2020 |
-| 4 | Jinqing Lian | Ph.D | 2021 |
-| 5 | Hongzheng Li | MSc | 2021 |
-| 6 | Yifei Shi | MSc | 2021 |
-| 7 | Zihong Wang | MSc | 2021 |
-| 8 | Xizhi Gu | MSc | 2021 |
-| 9 | Zenglin Pu | MSc | 2021 |
-| 10 | Qingfeng Xiang | MSc | 2022 |
-| 11 | Zhenyu Lin | MSc | 2022 |
-| 12 | Lixing Zhang | MSc | 2022 |
+| 1 | Jinqing Lian | Ph.D | 2021 |
+| 2 | Hongzheng Li | MSc | 2021 |
+| 3 | Yifei Shi | MSc | 2021 |
+| 4 | Zihong Wang | MSc | 2021 |
+| 5 | Xizhi Gu | MSc | 2021 |
+| 6 | Zenglin Pu | MSc | 2021 |
+| 7 | Qingfeng Xiang | MSc | 2022 |
+| 8 | Zhenyu Lin | MSc | 2022 |
+| 9 | Lixing Zhang | MSc | 2022 |
+| 10 | Chaofan Li | MSc | 2023 |
+| 11 | Siyu Lou | MSc | 2023 |
+| 12 | Xingzhi Jing | MSc | 2023 |
 
 ### Alumni
 
@@ -39,3 +39,8 @@ author_profile: true
 | 8 | Jianxiang Liao | BSc | 2021 | Msc, CMU|
 | 9 | Qingfeng Yao | MSc | 2022 | Ele.me |
 | 10 | Hui Liu | MSc | 2022 | Kuaishou|
+| 11 | Shitao Xiao | MSc | 2023 | BAAI |
+| 12 | Hongbo Yin | MSc | 2023 | Ph.D, HKUST (Guangzhou) |
+| 13 | Haijiang Wang | MSc | 2023 | Kuaishou |
+| 14 | Jijun Chi | BSc | 2023 | MSc, University of Toronto |
+| 15 | Jiarui Liang | BSc | 2023 | MSc, Durham University |

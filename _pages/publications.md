@@ -13,8 +13,12 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ====
 1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Lei Chen. DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU, SIGMOD 2023
 1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. [A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture](), TKDE 2023
+1. Xupeng Miao, Wentao Zhang, Yuezihan Jiang, Fangcheng Fu, **Yingxia Shao**, Lei Chen, Yangyu Tao, Gang Cao, Bin Cui. P2CG: a Privacy Preserving Collaborative Graph Neural Network Training Framework, VLDBJ 2023
 1. Ang Li, Yawen Li, **Yingxia Shao**, Bingyan Liu. Multi-View Scholar Clustering With Dynamic Interest Tracking, TKDE 2023 (Accepted)
-1. Chaofan Li, Zheng Liu, Shitao Xiao, **Yingxia Shao**, Defu Lian, Zhao Cao. LibVQ: A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval (Demo), SIGIR 2023 (Accepted)
+1. Chaofan Li, Zheng Liu, Shitao Xiao, **Yingxia Shao**, Defu Lian, Zhao Cao. LibVQ: A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval (Demo), SIGIR 2023
+1. Ziwei Chen, Linmei Hu, Weixin Li, **Yingxia Shao**, Liqiang Nie. Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection. ACL 2023
+1. Zheng Liu, Shitao Xiao, **Yingxia Shao**, Zhao Cao. RetroMAE-2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models. ACL 2023
+1. Ziwang Zhao, Linmei Hu, Hanyu Zhao, **Yingxia Shao**, Yequan Wang. Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering. ACL 2023
 
 2022
 ====
@@ -30,7 +34,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Hongbo Yin, **Yingxia Shao**, Xupeng Miao, Yawen Li, Bin Cui. Scalable Graph Sampling on GPUs with Compressed Graph, CIKM 2022.
 1. Shitao Xiao, Zheng Liu, **Yingxia Shao**, Zhao Cao. [RetroMAE: Pre-training Retrieval-oriented Transformers via Masked Auto-Encoder](), EMNLP 2021
 1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang. [CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs](), 34(9):4119-4132, TKDE 2022
-1. Xupeng Miao, Wentao Zhang, Yuezihan Jiang, Fangcheng Fu, **Yingxia Shao**, Lei Chen, Yangyu Tao, Gang Cao, Bin Cui. P2CG: a Privacy Preserving Collaborative Graph Neural Network Training Framework, VLDB 2022
 
 
 2021
