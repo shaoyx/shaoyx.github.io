@@ -19,8 +19,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Ziwei Chen, Linmei Hu, Weixin Li, **Yingxia Shao**, Liqiang Nie. Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection. ACL 2023
 1. Zheng Liu, Shitao Xiao, **Yingxia Shao**, Zhao Cao. RetroMAE-2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models. ACL 2023
 1. Ziwang Zhao, Linmei Hu, Hanyu Zhao, **Yingxia Shao**, Yequan Wang. Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering. ACL 2023
-1. Zihong Wang, **Yingxia Shao**, Jiyuan He, Jinbao Liu, Shitao Xiao, Tao Feng, Ming Liu. Diversity-aware Deep Ranking Network for Recommendation. CIKM 2023 (Accepted)
-1. Jinqing Lian, Xinyi Zhang, **Yingxia Shao**, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui. ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems. VLDB 2023 (Accepted)
+1. Zihong Wang, **Yingxia Shao**, Jiyuan He, Jinbao Liu, Shitao Xiao, Tao Feng, Ming Liu. Diversity-aware Deep Ranking Network for Recommendation. CIKM 2023
+1. Jinqing Lian, Xinyi Zhang, **Yingxia Shao**, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui. ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems. VLDB 2023
 
 2022
 ====
