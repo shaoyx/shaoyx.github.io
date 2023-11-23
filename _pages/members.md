@@ -13,7 +13,7 @@ author_profile: true
 | No. | Name| Type | Year | 
 | --- | --- | ----- | ----- |
 | 1 | Jinqing Lian | Ph.D | 2021 |
-| 2 | Hongzheng Li | MSc | 2021 |
+| 2 | Hongzheng Li | Ph.D | 2021(MSc)/2023 |
 | 3 | Yifei Shi | MSc | 2021 |
 | 4 | Zihong Wang | MSc | 2021 |
 | 5 | Xizhi Gu | MSc | 2021 |
