@@ -35,7 +35,7 @@ Large-scale Graph Processing & Analysis, Large-scale Graph Learning, Network/Gra
 
 Publications
 ======
-Articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=h6gVF8YAAAAJ) or [here](publications/).
+Articles on [[Google Scholar](https://scholar.google.com/citations?hl=en&user=h6gVF8YAAAAJ)], [[DBLP](https://dblp.org/pid/131/2926.html)] or [here](publications/).
 
 <!-- 
 1.  Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, LECF: Recommendation via Learnable Edge Collaborative Filtering, Sci China Inf Sci, 2022, 65: 112101
