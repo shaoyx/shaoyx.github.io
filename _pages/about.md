@@ -74,7 +74,7 @@ Academic Services
     - AAAI: 2019, 2021，2022 (SPC), 2023 (SPC), 2024 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021 (SPC), 2022, 2023
     <!-- WSDM: 2022, 2023 ACL: 2021 EMNLP: 2021 -->
-    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022, 2023 (Publication Co-Chair)
+    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022, 2023 (Publication Co-Chair), 2024
     - PAKDD: 2023 (SPC)
 <!-- APWeb-WAIM: 2018, 2019, 2020，2022-->
 
