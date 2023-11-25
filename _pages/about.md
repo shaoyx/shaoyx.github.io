@@ -17,12 +17,12 @@ Email: shaoyx [AT] bupt.edu.cn
 Bio
 ====
 Yingxia Shao is an Associate Professor at School of Computer Science, Beijing University of Posts and Telecommunications. 
-He obtained his PhD from Peking University 2016, advised by [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
+He obtained his PhD from Peking University in 2016, advised by [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 He worked with [Prof. Lei Chen](http://www.cs.ust.hk/~leichen/) as a visiting scholar at HKUST in 2013 and 2014.
-He has served in the Technical Program Committee of various international conferences including VLDB, ICDE, KDD, AAAI, IJCAI, DASFAA, BigData, APWeb-WAIM, etc. He is serving as a reviewer of international journals including VLDBJ, TKDE, WWWJ, DSE, etc. 
+He has served in the Technical Program Committee of various international conferences including VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, WSDM, DASFAA, BigData, etc. He is serving as a reviewer of international journals including VLDBJ, IEEE TKDE, IEEE TPDS, IEEE TBD, etc. 
 He received the ACM SIGMOD China Rising Star Award, ACM SIGMOD China Doctoral Dissertation Award, was selected into the MSRA Star-Track Young Scholar Program, won the VLDB 2022 Best Regular Research Paper Award, and the DASFAA 2020 Best Student Paper Award. 
 
-He is a member of ACM, member of IEEE, senior member of CCF and member of China Database technical committee.
+He is a member of ACM, member of IEEE, senior member of CCF.
 
 <font color="blue">
 NOTE: I'm looking for highly self-motivated students to work with me as PhD and/or master students. 
@@ -79,7 +79,7 @@ Academic Services
 <!-- APWeb-WAIM: 2018, 2019, 2020，2022-->
 
 - Journal Reviewers
-    - VLDBJ, TKDE, TPDS, TNNLS, TBD, WWWJ, DSE
+    - VLDBJ, TKDE, TPDS, TNNLS, TBD, TM, TNet, TBD, WWWJ, DSE
 
 Research Grants
 =====
