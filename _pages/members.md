@@ -32,8 +32,7 @@ author_profile: true
 | No. | Name| Type | Grad. Year | Notes |
 | --- | --- | ----- | ----- | ----- |
 | 1 | Jiaxu Liu | MSc (co-supervisor) | 2021 | Alibaba |
-| 2 | Jianxiang Liao | BSc | 2021 | Msc, CMU|
-| 3 | Qingfeng Yao | MSc | 2022 | Ele.me |
+| 2 | Qingfeng Yao | MSc | 2022 | Ele.me |
 | 3 | Hui Liu | MSc | 2022 | Kuaishou|
 | 4 | Shitao Xiao | MSc | 2023 | BAAI |
 | 5 | Hongbo Yin | MSc | 2023 | Ph.D, HKUST (Guangzhou) |
@@ -48,5 +47,6 @@ author_profile: true
 | 4 | Weiqiang Yu| BSc| 2020 | Excellent Bachelor Thesis of BUPT; MSc, Columbia University |
 | 5 | Qiuyi Jin| BSc| 2020 | CitiBank |
 | 6 | Xinyu Yao | BSc | 2021 | Excellent Bachelor Thesis of Beijing; Ali Cloud|
-| 7 | Jijun Chi | BSc | 2023 | MSc, University of Toronto |
-| 8 | Jiarui Liang | BSc | 2023 | MSc, Durham University |
+| 7 | Jianxiang Liao | BSc | 2021 | Msc, CMU|
+| 8 | Jijun Chi | BSc | 2023 | MSc, University of Toronto |
+| 9 | Jiarui Liang | BSc | 2023 | MSc, Durham University |
