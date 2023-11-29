@@ -79,7 +79,7 @@ Academic Services
 <!-- APWeb-WAIM: 2018, 2019, 2020，2022-->
 
 - Journal Reviewers
-    - VLDBJ, TKDE, TPDS, TNNLS, TBD, TM, TNet, TBD, WWWJ, DSE
+    - VLDBJ, TKDE, TPDS, TNNLS, TBD, TM, TNet, WWWJ, DSE
 
 Research Grants
 =====
