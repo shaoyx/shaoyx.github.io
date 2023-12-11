@@ -21,6 +21,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Ziwang Zhao, Linmei Hu, Hanyu Zhao, **Yingxia Shao**, Yequan Wang. Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering. ACL 2023
 1. Zihong Wang, **Yingxia Shao**, Jiyuan He, Jinbao Liu, Shitao Xiao, Tao Feng, Ming Liu. Diversity-aware Deep Ranking Network for Recommendation. CIKM 2023
 1. Jinqing Lian, Xinyi Zhang, **Yingxia Shao**, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui. ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems. VLDB 2023
+1. Jingshu Peng, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen, Jiannong Cao. Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks (Extended Abstract). IJCAI 2023: 6480-6485
 
 2022
 ====
