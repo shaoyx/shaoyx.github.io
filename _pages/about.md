@@ -10,13 +10,13 @@ redirect_from:
 
 Yingxia Shao (邵蓥侠)
 ====
-Associate Professor, PhD Advisor
+Professor
 
 Email: shaoyx [AT] bupt.edu.cn
 
 Bio
 ====
-Yingxia Shao is an Associate Professor at School of Computer Science, Beijing University of Posts and Telecommunications. 
+Yingxia Shao is a Professor at School of Computer Science, Beijing University of Posts and Telecommunications. 
 He obtained his PhD from Peking University in 2016, advised by [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 He worked with [Prof. Lei Chen](http://www.cs.ust.hk/~leichen/) as a visiting scholar at HKUST in 2013 and 2014.
 He has served in the Technical Program Committee of various international conferences including VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, WSDM, DASFAA, BigData, etc. He is serving as a reviewer of international journals including VLDBJ, IEEE TKDE, IEEE TPDS, IEEE TBD, etc. 

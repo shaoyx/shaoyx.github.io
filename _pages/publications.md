@@ -35,7 +35,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Shitao Xiao, **Yingxia Shao**, Yawen Li, Hongzhi Yin, Yanyan Shen, Bin Cui, [LECF: Recommendation via Learnable Edge Collaborative Filtering](), Sci China Inf Sci, 2022, 65: 112101
 1. Xupeng Miao, Wentao Zhang, **Yingxia Shao**, Bin Cui, Lei Chen, Ce Zhang, Jiawei Jiang. [A Multi-Layer Graph Convolutional Network Framework via Node-aware Deep Architecture](), ICDE 2022 (TKDE Poster)
 1. Hongbo Yin, **Yingxia Shao**, Xupeng Miao, Yawen Li, Bin Cui. Scalable Graph Sampling on GPUs with Compressed Graph, CIKM 2022.
-1. Shitao Xiao, Zheng Liu, **Yingxia Shao**, Zhao Cao. [RetroMAE: Pre-training Retrieval-oriented Transformers via Masked Auto-Encoder](), EMNLP 2021
+1. Shitao Xiao, Zheng Liu, **Yingxia Shao**, Zhao Cao. [RetroMAE: Pre-training Retrieval-oriented Transformers via Masked Auto-Encoder](), EMNLP 2022
 1. Xupeng Miao, Linxiao Ma, Zhi Yang, **Yingxia Shao**, Bin Cui, Lele Yu, Jiawei Jiang. [CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs](), 34(9):4119-4132, TKDE 2022
 
 
