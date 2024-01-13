@@ -22,7 +22,7 @@ He worked with [Prof. Lei Chen](http://www.cs.ust.hk/~leichen/) as a visiting sc
 He has served in the Technical Program Committee of various international conferences including VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, WSDM, DASFAA, BigData, etc. He is serving as a reviewer of international journals including VLDBJ, IEEE TKDE, IEEE TPDS, IEEE TBD, etc. 
 He received the ACM SIGMOD China Rising Star Award, ACM SIGMOD China Doctoral Dissertation Award, was selected into the MSRA Star-Track Young Scholar Program, won the VLDB 2022 Best Regular Research Paper Award, and the DASFAA 2020 Best Student Paper Award. 
 
-He is a member of ACM, member of IEEE, senior member of CCF.
+He is a senior member of ACM, member of IEEE, senior member of CCF.
 
 <font color="blue">
 NOTE: I'm looking for highly self-motivated students to work with me as PhD and/or master students. 
