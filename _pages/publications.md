@@ -9,6 +9,16 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <!-- {% endif %} -->
 
 {% include base_path %}
+2024
+====
+1. **Yingxia Shao**, Hongzheng Li, Xizhi Gu, Hongbo Yin, Yawen Li, Xupeng Miao, Wentao Zhang, Bin Cui, Lei Chen. Distributed Graph Neural Network Training: A Survey, ACM Computing Surveys, 2024
+1. Shihong Gao, Yiming Li, Xin Zhang, Yanyan Shen, **Yingxia Shao**, Lei Chen. SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement, SIGMOD 2024
+1. Hailin Zhang, Penghao Zhao, Xupeng Miao, **Yingxia Shao**,  Zirui Liu, Tong Yang, Bin Cui. Experimental Analysis of Large-scale Learnable Vector Storage Compression, VLDB 2024
+1. Shihong Gao, Yiming Li, Yanyan Shen, **Yingxia Shao**, Lei Chen. ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs, VLDB 2024
+1. Zhiyuan Li, Xun Jian, Yue Wang, **Yingxia Shao**, Lei Chen. Accelerating GNN Training with Data and Hardware Aware Execution Planning, VLDB 2024
+1. Xinyi Gao, Wentao Zhang, Junliang Yu, **Yingxia Shao**, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin, Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation, ICDE 2024
+1. Linmei Hu, Hongyu He, Duokang Wang, Ziwang Zhao, **Yingxia Shao**, Liqiang Nie, LLM vs Small Model? Large Language Model based Text Augmentation Enhanced Personality Detection Model, AAAI 2024
+
 2023
 ====
 1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Lei Chen. DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU, SIGMOD 2023
