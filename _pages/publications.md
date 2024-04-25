@@ -17,6 +17,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Shihong Gao, Yiming Li, Yanyan Shen, **Yingxia Shao**, Lei Chen. ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs, VLDB 2024
 1. Zhiyuan Li, Xun Jian, Yue Wang, **Yingxia Shao**, Lei Chen. Accelerating GNN Training with Data and Hardware Aware Execution Planning, VLDB 2024
 1. Xinyi Gao, Wentao Zhang, Junliang Yu, **Yingxia Shao**, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin, Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation, ICDE 2024
+1. Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, Zhigao Zheng, Ziyi Zhang, **Yingxia Shao**, Ce Zhang, How good are machine learning clouds? Benchmarking two snapshots over 5 years, VLDBJ 2024
 1. Linmei Hu, Hongyu He, Duokang Wang, Ziwang Zhao, **Yingxia Shao**, Liqiang Nie, LLM vs Small Model? Large Language Model based Text Augmentation Enhanced Personality Detection Model, AAAI 2024
 1. Duokang Wang, Linmei Hu, Rui Hao, **Yingxia Shao**, Xin Lv, Liqiang Nie and Juanzi Li, Let Me Show You Step by Step: An Interpretable Graph Routing Network for Knowledge-based Visual Question Answering, SIGIR 2024
 
