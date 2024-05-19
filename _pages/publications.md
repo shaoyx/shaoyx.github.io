@@ -20,6 +20,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, Zhigao Zheng, Ziyi Zhang, **Yingxia Shao**, Ce Zhang, How good are machine learning clouds? Benchmarking two snapshots over 5 years, VLDBJ 2024
 1. Linmei Hu, Hongyu He, Duokang Wang, Ziwang Zhao, **Yingxia Shao**, Liqiang Nie, LLM vs Small Model? Large Language Model based Text Augmentation Enhanced Personality Detection Model, AAAI 2024
 1. Duokang Wang, Linmei Hu, Rui Hao, **Yingxia Shao**, Xin Lv, Liqiang Nie and Juanzi Li, Let Me Show You Step by Step: An Interpretable Graph Routing Network for Knowledge-based Visual Question Answering, SIGIR 2024
+1. Chaofan Li, Zheng Liu, Shitao Xiao, **Yingxia Shao**, Defu Lian, Unsupervised Adaptation of Large Language Models for Dense Retrieval, ACL 2024
 1. Zihong Wang, **Yingxia Shao**, Jiyuan He, Jinbao Liu, Distribution-aware Diversification for Personalized Re-ranking in Recommendation, APWeb-WAIM 2024
 
 2023
