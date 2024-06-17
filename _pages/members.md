@@ -14,16 +14,18 @@ author_profile: true
 | --- | --- | ----- | ----- |
 | 1 | Jinqing Lian | Ph.D | 2021 |
 | 2 | Hongzheng Li | Ph.D | 2021(MSc)/2023 |
-| 3 | Yifei Shi | MSc | 2021 |
-| 4 | Zihong Wang | MSc | 2021 |
-| 5 | Xizhi Gu | MSc | 2021 |
-| 6 | Zenglin Pu | MSc | 2021 |
-| 7 | Qingfeng Xiang | MSc | 2022 |
-| 8 | Zhenyu Lin | MSc | 2022 |
-| 9 | Lixing Zhang | MSc | 2022 |
-| 10 | Chaofan Li | MSc | 2023 |
-| 11 | Siyu Lou | MSc | 2023 |
-| 12 | Xingzhi Jing | MSc | 2023 |
+| 3 | Chenlin Tian | Ph.D | 2024 |
+| 4 | Xin Du | Ph.D | 2024 |
+| 5 | Qingfeng Xiang | MSc | 2022 |
+| 6 | Zhenyu Lin | MSc | 2022 |
+| 7 | Lixing Zhang | MSc | 2022 |
+| 8 | Chaofan Li | MSc | 2023 |
+| 9 | Siyu Lou | MSc | 2023 |
+| 10 | Xingzhi Jing | MSc | 2023 |
+| 11 | Qingliu Wu | MSc | 2024 |
+| 12 | Hejia Wang | MSc | 2024 |
+| 13 | Siliang Li | MSc | 2024 |
+| 14 | Jia Hu | MSc | 2024 |
 
 ### Alumni
 
@@ -37,6 +39,13 @@ author_profile: true
 | 4 | Shitao Xiao | MSc | 2023 | BAAI |
 | 5 | Hongbo Yin | MSc | 2023 | Ph.D, HKUST (Guangzhou) |
 | 6 | Haijiang Wang | MSc | 2023 | Kuaishou |
+| 7 | Yifei Shi | MSc | 2024 | POSTAL SAVINGS BANK OFCHINA |
+| 8 | Zihong Wang | MSc | 2024 | AGRICULTURAL BANK OF CHINA |
+| 9 | Xizhi Gu | MSc | 2024 | Meituan |
+| 10 | Zenglin Pu | MSc | 2024 | Aliyun |
+| 11 | Ziwang Zhao | MSc (co-supervisor) | 2024 | ByteDance |
+| 12 | Ziwei Chen | MSc (co-supervisor)  | 2024 | Alimama |
+
 
 #### Bachelors
 
@@ -50,3 +59,4 @@ author_profile: true
 | 7 | Jianxiang Liao | BSc | 2021 | Msc, CMU|
 | 8 | Jijun Chi | BSc | 2023 | MSc, University of Toronto |
 | 9 | Jiarui Liang | BSc | 2023 | MSc, Durham University |
+| 10 | Kuixian Xiang | BSc | 2024 | MSc, Renmin University |
