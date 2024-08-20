@@ -69,8 +69,8 @@ Academic Services
 ======
 - Selected Conference PC Membership
     - VLDB: 2019, 2022 (Demo PC), 2023, 2024
-    - ICDE: 2022, 2023
-    - KDD: 2019, 2020, 2021, 2022, 2023
+    - ICDE: 2022, 2023，2025
+    - KDD: 2019, 2020, 2021, 2022, 2023, 2024, 2025
     - AAAI: 2019, 2021，2022 (SPC), 2023 (SPC), 2024 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021 (SPC), 2022, 2023
     <!-- WSDM: 2022, 2023 ACL: 2021 EMNLP: 2021 -->
