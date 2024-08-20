@@ -23,7 +23,7 @@ author_profile: true
 | 9 | Siyu Lou | MSc | 2023 |
 | 10 | Xingzhi Jing | MSc | 2023 |
 | 11 | Qingliu Wu | MSc | 2024 |
-| 12 | Hejia Wang | MSc | 2024 |
+| 12 | Jiahe Wang | MSc | 2024 |
 | 13 | Siliang Li | MSc | 2024 |
 | 14 | Jia Hu | MSc | 2024 |
 
