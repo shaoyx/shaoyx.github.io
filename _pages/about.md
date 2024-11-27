@@ -25,7 +25,7 @@ He received the ACM SIGMOD China Rising Star Award, ACM SIGMOD China Doctoral Di
 He is a senior member of ACM, senior member of IEEE, senior member of CCF.
 
 <font color="blue">
-NOTE: I'm looking for highly self-motivated students to work with me as PhD and/or master students. 
+NOTE: I'm looking for highly self-motivated students to work with me as PhD and/or master students (Fall 2025). 
 Candidates who are interested please contact me directly.
 </font>
 
