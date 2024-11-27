@@ -24,7 +24,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Zheng Liu, Chaofan Li, Shitao Xiao, **Yingxia Shao**, Defu Lian, LLAMA2VEC: Unsupervised Adaptation of Large Language Models for Dense Retrieval, ACL 2024
 1. Xizhi Gu, Hongzheng Li, Shihong Gao, Xinyan Zhang, Lei Chen, **Yingxia Shao**, SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training, ECMLPKDD 2024
 1. Zihong Wang, **Yingxia Shao**, Jiyuan He, Jinbao Liu, Distribution-aware Diversification for Personalized Re-ranking in Recommendation, APWeb-WAIM 2024
-1. Hongbo Yin, Jingshu Peng, Qiyu Liu, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen, Jiannong Cao. SANQUS: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs, SC 2024 (Poster)
+1. Hongbo Yin, Jingshu Peng, Qiyu Liu, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen, Jiannong Cao. SANQUS: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs, SC 2024 (Poster, **Best Poster Finalist**)
 
 2023
 ====
