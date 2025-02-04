@@ -9,6 +9,16 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <!-- {% endif %} -->
 
 {% include base_path %}
+2025
+====
+1. Jingshu Peng, Qiyu Liu, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen & Jiannong Cao, From Sancus to Sancus^q: staleness and quantization-aware full-graph decentralized training in graph neural networks, VLDB Journal 2025
+1. Siqi Shen, Wentao Zhang, Chengshuo Du, Chong Chen, Fangcheng Fu, **Yingxia Shao**, Bin Cui, Towards Scalable and Efficient Graph Structure Learning, ICDE 2025
+1. Chaofan Li, Minghao Qin, Shitao Xiao, Jianlyu Chen, Kun Luo, **Yingxia Shao**, Defu Lian, Zheng Liu, Making Text Embedders Few-Shot Learners, ICLR 2025
+1. Zheng Liu, Chaofan Li, Shitao Xiao, Chaozhuo Li, Chen Jason Zhang, Hao Liao, Defu Lian, **Yingxia Shao**, Fitting Into Any Shape: A Flexible LLM-Based Re-Ranker With Configurable Depth and Width, WWW 2025
+1. Jia Wang, Yawen Li, Zhe Xue, **Yingxia Shao**, Zeli Guan, Wenling Li, Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges, WWW 2025
+1. Jia Wang, Yawen Li, **Yingxia Shao**, Zhe Xue, Zeli Guan, Ang Li, Guanhua Ye, Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning, AAAI 2025
+1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2025
+
 2024
 ====
 1. **Yingxia Shao**, Hongzheng Li, Xizhi Gu, Hongbo Yin, Yawen Li, Xupeng Miao, Wentao Zhang, Bin Cui, Lei Chen. Distributed Graph Neural Network Training: A Survey, ACM Computing Surveys, 2024
