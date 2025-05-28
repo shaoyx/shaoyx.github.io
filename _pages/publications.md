@@ -11,6 +11,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% include base_path %}
 2025
 ====
+1. Qingliu Wu, Qingfeng Xiang, **Yingxia Shao**, Qiyao Luo, Quanqing Xu, DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs, VLDB 2025 (Demo)
 1. Jingshu Peng, Qiyu Liu, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen & Jiannong Cao, From Sancus to Sancus^q: staleness and quantization-aware full-graph decentralized training in graph neural networks, VLDB Journal 2025
 1. Siqi Shen, Wentao Zhang, Chengshuo Du, Chong Chen, Fangcheng Fu, **Yingxia Shao**, Bin Cui, Towards Scalable and Efficient Graph Structure Learning, ICDE 2025
 1. Chaofan Li, Minghao Qin, Shitao Xiao, Jianlyu Chen, Kun Luo, **Yingxia Shao**, Defu Lian, Zheng Liu, Making Text Embedders Few-Shot Learners, ICLR 2025
