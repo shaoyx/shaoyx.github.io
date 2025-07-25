@@ -14,10 +14,14 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Qingliu Wu, Qingfeng Xiang, **Yingxia Shao**, Qiyao Luo, Quanqing Xu, DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs, VLDB 2025 (Demo)
 1. Jingshu Peng, Qiyu Liu, Zhao Chen, **Yingxia Shao**, Yanyan Shen, Lei Chen & Jiannong Cao, From Sancus to Sancus^q: staleness and quantization-aware full-graph decentralized training in graph neural networks, VLDB Journal 2025
 1. Siqi Shen, Wentao Zhang, Chengshuo Du, Chong Chen, Fangcheng Fu, **Yingxia Shao**, Bin Cui, Towards Scalable and Efficient Graph Structure Learning, ICDE 2025
+1. Lixing Zhang, **Yingxia Shao**, Shigang Li, CoLa: Towards Communication-efficient Distributed Sparse Matrix-Matrix Multiplication on GPUs, ICS 2025
+1. Chaofan Li, Jianlyu Chen, **Yingxia Shao**, Chaozhuo Li, Quanqing Xu, Defu Lian, Zheng Liu, Reinforced IR: A Self-Boosting Framework For Domain-Adapted Information Retrieval, ACL 2025 (oral)
 1. Chaofan Li, Minghao Qin, Shitao Xiao, Jianlyu Chen, Kun Luo, **Yingxia Shao**, Defu Lian, Zheng Liu, Making Text Embedders Few-Shot Learners, ICLR 2025
 1. Zheng Liu, Chaofan Li, Shitao Xiao, Chaozhuo Li, Chen Jason Zhang, Hao Liao, Defu Lian, **Yingxia Shao**, Fitting Into Any Shape: A Flexible LLM-Based Re-Ranker With Configurable Depth and Width, WWW 2025
 1. Jia Wang, Yawen Li, Zhe Xue, **Yingxia Shao**, Zeli Guan, Wenling Li, Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges, WWW 2025
 1. Jia Wang, Yawen Li, **Yingxia Shao**, Zhe Xue, Zeli Guan, Ang Li, Guanhua Ye, Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning, AAAI 2025
+1. Aijing Li, Junping Du, Dandan Liu, **Yingxia Shao**, Tong Zhao, Guanhua Ye, CSAHFL:Clustered Semi-Asynchronous Hierarchical Federated Learning for Dual-layer Non-IID in Heterogeneous Edge Computing Networks, IJCAI 2025
+1. Zhengyang Liang, Meiyu Liang, Wei Huang, Yawen Li, Wu Liu, **Yingxia Shao**, Kangkang Lu, Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Retrieval, ACM MM 2025
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2025
 
 2024
