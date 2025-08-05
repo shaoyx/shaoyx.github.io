@@ -16,16 +16,20 @@ author_profile: true
 | 2 | Hongzheng Li | Ph.D | 2021(MSc)/2023 |
 | 3 | Chenlin Tian | Ph.D | 2024 |
 | 4 | Xin Du | Ph.D | 2024 |
-| 5 | Qingfeng Xiang | MSc | 2022 |
-| 6 | Zhenyu Lin | MSc | 2022 |
-| 7 | Lixing Zhang | MSc | 2022 |
-| 8 | Chaofan Li | MSc | 2023 |
-| 9 | Siyu Lou | MSc | 2023 |
-| 10 | Xingzhi Jing | MSc | 2023 |
-| 11 | Qingliu Wu | MSc | 2024 |
-| 12 | Jiahe Wang | MSc | 2024 |
-| 13 | Siliang Li | MSc | 2024 |
-| 14 | Jia Hu | MSc | 2024 |
+| 5 | Qingfeng Xiang | Ph.D | 2022 (Msc)/2025 |
+| 6 | Chaofan Li | MSc | 2023 |
+| 7 | Siyu Lou | MSc | 2023 |
+| 8 | Xingzhi Jing | MSc | 2023 |
+| 9 | Qingliu Wu | MSc | 2024 |
+| 10 | Jiahe Wang | MSc | 2024 |
+| 11 | Siliang Li | MSc | 2024 |
+| 12 | Da Hu | MSc | 2024 |
+| 13 | Yubin Hong | MSc | 2025 |
+| 14 | Jiajun Liu | MSc | 2025 |
+| 15 | Qingbo Ge | MSc | 2025 |
+| 16 | Tengbiao Wu | MSc | 2025 |
+| 17 | Yulan Jin | MSc | 2025 |
+| 18 | Ningze Gao | MSc | 2025 |
 
 ### Alumni
 
@@ -45,7 +49,10 @@ author_profile: true
 | 10 | Zenglin Pu | MSc | 2024 | Aliyun |
 | 11 | Ziwang Zhao | MSc (co-supervisor) | 2024 | ByteDance |
 | 12 | Ziwei Chen | MSc (co-supervisor)  | 2024 | Alimama |
-
+| 13 | Zhenyu Lin | MSc | 2025 | Meituan |
+| 14 | Lixing Zhang | MSc | 2025 |  Ph.D, BUPT |
+| 15 | Duokang Wang | MSc (co-supervisor) | 2025 | Ant Group |
+| 16 | Hongyu He | MSc (co-supervisor) | 2025 | Meituan |
 
 #### Bachelors
 
