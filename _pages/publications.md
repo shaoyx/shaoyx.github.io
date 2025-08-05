@@ -23,6 +23,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Aijing Li, Junping Du, Dandan Liu, **Yingxia Shao**, Tong Zhao, Guanhua Ye, CSAHFL:Clustered Semi-Asynchronous Hierarchical Federated Learning for Dual-layer Non-IID in Heterogeneous Edge Computing Networks, IJCAI 2025
 1. Zhengyang Liang, Meiyu Liang, Wei Huang, Yawen Li, Wu Liu, **Yingxia Shao**, Kangkang Lu, Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Retrieval, ACM MM 2025
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2025
+1. Yubin Hong, Chaofan Li, Jingyi Zhang, **Yingxia Shao**, Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization, CIKM 2025
 
 2024
 ====
