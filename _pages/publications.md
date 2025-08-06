@@ -24,6 +24,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Zhengyang Liang, Meiyu Liang, Wei Huang, Yawen Li, Wu Liu, **Yingxia Shao**, Kangkang Lu, Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Retrieval, ACM MM 2025
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2025
 1. Yubin Hong, Chaofan Li, Jingyi Zhang, **Yingxia Shao**, Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization, CIKM 2025
+1. Qingfeng Xiang, **Yingxia Shao**, Quanqing Xu, Chuanhui Yang, Distributed Database Diagnosis Method for Compound Anomalies, International Journal of Software and Informatics, 15(1):115-137, 2025
 
 2024
 ====
