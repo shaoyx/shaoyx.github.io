@@ -16,13 +16,14 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Siqi Shen, Wentao Zhang, Chengshuo Du, Chong Chen, Fangcheng Fu, **Yingxia Shao**, Bin Cui, Towards Scalable and Efficient Graph Structure Learning, ICDE 2025
 1. Lixing Zhang, **Yingxia Shao**, Shigang Li, CoLa: Towards Communication-efficient Distributed Sparse Matrix-Matrix Multiplication on GPUs, ICS 2025
 1. Chaofan Li, Jianlyu Chen, **Yingxia Shao**, Chaozhuo Li, Quanqing Xu, Defu Lian, Zheng Liu, Reinforced IR: A Self-Boosting Framework For Domain-Adapted Information Retrieval, ACL 2025 (oral)
-1. Chaofan Li, Minghao Qin, Shitao Xiao, Jianlyu Chen, Kun Luo, **Yingxia Shao**, Defu Lian, Zheng Liu, Making Text Embedders Few-Shot Learners, ICLR 2025
+1. Chaofan Li, Minghao Qin, Shitao Xiao, Jianlyu Chen, Kun Luo, Defu Lian, **Yingxia Shao**, Zheng Liu, Making Text Embedders Few-Shot Learners, ICLR 2025
 1. Zheng Liu, Chaofan Li, Shitao Xiao, Chaozhuo Li, Chen Jason Zhang, Hao Liao, Defu Lian, **Yingxia Shao**, Fitting Into Any Shape: A Flexible LLM-Based Re-Ranker With Configurable Depth and Width, WWW 2025
 1. Jia Wang, Yawen Li, Zhe Xue, **Yingxia Shao**, Zeli Guan, Wenling Li, Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges, WWW 2025
 1. Jia Wang, Yawen Li, **Yingxia Shao**, Zhe Xue, Zeli Guan, Ang Li, Guanhua Ye, Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning, AAAI 2025
 1. Aijing Li, Junping Du, Dandan Liu, **Yingxia Shao**, Tong Zhao, Guanhua Ye, CSAHFL:Clustered Semi-Asynchronous Hierarchical Federated Learning for Dual-layer Non-IID in Heterogeneous Edge Computing Networks, IJCAI 2025
 1. Zhengyang Liang, Meiyu Liang, Wei Huang, Yawen Li, Wu Liu, **Yingxia Shao**, Kangkang Lu, Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Retrieval, ACM MM 2025
 1. Zeang Sheng, Weiyang Guo, **Yingxia Shao**, Wentao Zhang, Bin Cui, LLMs Are Noisy Oracles! LLM-based Noise-aware Graph Active Learning for Node Classification. KDD 2025: 2526-2537
+1. Chaofan Li, Jianlyu Chen, **Yingxia Shao**, Defu Lian, Zheng Liu, Towards A Generalist Code Embedding Model Based On Massive Data Synthesis, NeurIPS 2025
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2025
 1. Yubin Hong, Chaofan Li, Jingyi Zhang, **Yingxia Shao**, Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization, CIKM 2025
 1. Lixing Zhang, Guanhua Ye, Hongzheng Li, Shigang Li, **Yingxia Shao**, ParamSpMM: Adaptive and Efficient Sparse
