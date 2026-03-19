@@ -9,6 +9,17 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <!-- {% endif %} -->
 
 {% include base_path %}
+2026
+====
+1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Haoyang Li, Lei Chen, Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling, VLDB 2026 (accepted)
+1. Hongzheng Li, Yucheng Wu, Junjie Zhai, Anan Liu, Yuekui Yang, **Yingxia Shao**, JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training, ICDE 2026 (accepted)
+1. Chenglin Tian, Chaofan Li, Yawen Li, **Yingxia Shao**, LLMSQLMUTATOR: LLM-Powered Test Case Generation for Database Using Bug Reports, ICDE 2026 (accepted)
+1. Di Wang, Junping Du, Zhe Xue, Meiyu Liang, Guanhua Ye, **Yingxia Shao**, LI Haisheng, HFR-MKGC: Hierarchical Fusion Reasoning with MLLMs for Multi-modal Knowledge Graph Completion, AAAI 2026
+1. Guanhua Ye, Jifeng He, Yan Li, Junping Du, Zhe Xue, Yingxia Shao, Meiyu Liang, Yawen Li, Rethink Representation Learning for Questionnaire Data, AAAI 2026
+1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2026
+1. Rui Wang, Mengshi Qi, **Yingxia Shao**, Anfu Zhou, Huadong Ma, PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation. IEEE Trans. Mob. Comput. 25(4): 4876-4889, 2026
+1. Zhenyu Lin, Hongzheng Li, Guanhua Ye, Yawen Li, Meiyu Liang, **Yingxia Shao**, COIN: Graph Contrastive Learning with Orthogonal Continuous Augmentation and Information Balance, DSE 2026 (accepted)
+
 2025
 ====
 1. Qingliu Wu, Qingfeng Xiang, **Yingxia Shao**, Qiyao Luo, Quanqing Xu, DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs, VLDB 2025 (Demo)
@@ -24,7 +35,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Zhengyang Liang, Meiyu Liang, Wei Huang, Yawen Li, Wu Liu, **Yingxia Shao**, Kangkang Lu, Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Retrieval, ACM MM 2025
 1. Zeang Sheng, Weiyang Guo, **Yingxia Shao**, Wentao Zhang, Bin Cui, LLMs Are Noisy Oracles! LLM-based Noise-aware Graph Active Learning for Node Classification. KDD 2025: 2526-2537
 1. Chaofan Li, Jianlyu Chen, **Yingxia Shao**, Defu Lian, Zheng Liu, Towards A Generalist Code Embedding Model Based On Massive Data Synthesis, NeurIPS 2025
-1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2025
 1. Yubin Hong, Chaofan Li, Jingyi Zhang, **Yingxia Shao**, Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization, CIKM 2025
 1. Lixing Zhang, Guanhua Ye, Hongzheng Li, Shigang Li, **Yingxia Shao**, ParamSpMM: Adaptive and Efficient Sparse
 Matrix-Matrix Multiplication on GPUs for GNNs, DASFAA Workshop, 2025

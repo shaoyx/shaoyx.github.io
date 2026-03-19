@@ -20,18 +20,18 @@ Yingxia Shao is a Professor at School of Computer Science, Beijing University of
 He obtained his PhD from Peking University in 2016, advised by [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 He worked with [Prof. Lei Chen](http://www.cs.ust.hk/~leichen/) as a visiting scholar at HKUST in 2013 and 2014.
 He has served in the Technical Program Committee of various international conferences including VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, WSDM, DASFAA, BigData, etc. He is serving as a reviewer of international journals including VLDBJ, IEEE TKDE, IEEE TPDS, IEEE TBD, etc. 
-He received the ACM SIGMOD China Rising Star Award, ACM SIGMOD China Doctoral Dissertation Award, was selected into the MSRA Star-Track Young Scholar Program, won the VLDB 2022 Best Regular Research Paper Award, and the DASFAA 2020 Best Student Paper Award. 
+He received the ACM SIGMOD China Rising Star Award, ACM SIGMOD China Doctoral Dissertation Award, was selected into the MSRA Star-Track Young Scholar Program, won the SC 2024 Best Poster Finalist, the VLDB 2022 Best Regular Research Paper Award, the DASFAA 2020 Best Student Paper Award, and etc. 
 
 He is a distinguished member of CCF, senior member of ACM, senior member of IEEE.
 
 <font color="blue">
-NOTE: I'm looking for highly self-motivated students to work with me as PhD and/or master students (Fall 2026). 
+NOTE: I'm looking for highly self-motivated students to work with me as PhD and/or master students (Fall 2027). 
 Candidates who are interested please contact me directly.
 </font>
 
 Research Interests
 ======
-Large-scale Graph Processing & Analysis, Large-scale Graph Learning, Network/Graph Representation 
+Large-scale Machine Learning, Graph Neural Network, AI for Database, Data Management 
 
 Publications
 ======
