@@ -18,6 +18,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Guanhua Ye, Jifeng He, Yan Li, Junping Du, Zhe Xue, Yingxia Shao, Meiyu Liang, Yawen Li, Rethink Representation Learning for Questionnaire Data, AAAI 2026
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2026
 1. Rui Wang, Mengshi Qi, **Yingxia Shao**, Anfu Zhou, Huadong Ma, PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation. IEEE Trans. Mob. Comput. 25(4): 4876-4889, 2026
+1. Qingfeng Xiang, **Yingxia Shao**, Chenglin Tian, Quanqing Xu, Qiyao Luo, DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases, DASFAA 2026
 1. Zhenyu Lin, Hongzheng Li, Guanhua Ye, Yawen Li, Meiyu Liang, **Yingxia Shao**, COIN: Graph Contrastive Learning with Orthogonal Continuous Augmentation and Information Balance, DSE 2026 (accepted)
 
 2025
