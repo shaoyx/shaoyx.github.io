@@ -68,14 +68,14 @@ Articles on [[Google Scholar](https://scholar.google.com/citations?hl=en&user=h6
 Academic Services
 ======
 - Selected Conference PC Membership
-    - VLDB: 2019, 2022 (Demo PC), 2023, 2024
-    - ICDE: 2022, 2023，2025
-    - KDD: 2019, 2020, 2021, 2022, 2023, 2024, 2025
+    - VLDB: 2019, 2022 (Demo PC), 2023, 2024, 2026（Demo PC）
+    - ICDE: 2022, 2023，2025，2026
+    - KDD: 2019, 2020, 2021, 2022, 2023, 2024, 2025，2026
     - AAAI: 2019, 2021，2022 (SPC), 2023 (SPC), 2024 (SPC)
     - IJCAI: 2018, 2019, 2020, 2021 (SPC), 2022, 2023
     <!-- WSDM: 2022, 2023 ACL: 2021 EMNLP: 2021 -->
-    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022, 2023 (Publication Co-Chair), 2024
-    - PAKDD: 2023 (SPC), 2024 (SPC) 
+    - DASFAA: 2020 (Publicity Co-Chair), 2021, 2022, 2023 (Publication Co-Chair), 2024，2025
+    - PAKDD: 2023 (SPC), 2024 (SPC)，2025（SPC） 
 <!-- APWeb-WAIM: 2018, 2019, 2020，2022-->
 
 - Journal Reviewers
