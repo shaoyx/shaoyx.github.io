@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Hongzheng Li, Yucheng Wu, Junjie Zhai, Anan Liu, Yuekui Yang, **Yingxia Shao**, JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training, ICDE 2026 (accepted)
 1. Chenglin Tian, Chaofan Li, Yawen Li, **Yingxia Shao**, LLMSQLMUTATOR: LLM-Powered Test Case Generation for Database Using Bug Reports, ICDE 2026 (accepted)
 1. Di Wang, Junping Du, Zhe Xue, Meiyu Liang, Guanhua Ye, **Yingxia Shao**, LI Haisheng, HFR-MKGC: Hierarchical Fusion Reasoning with MLLMs for Multi-modal Knowledge Graph Completion, AAAI 2026
-1. Guanhua Ye, Jifeng He, Yan Li, Junping Du, Zhe Xue, Yingxia Shao, Meiyu Liang, Yawen Li, Rethink Representation Learning for Questionnaire Data, AAAI 2026
+1. Guanhua Ye, Jifeng He, Yan Li, Junping Du, Zhe Xue, **Yingxia Shao**, Meiyu Liang, Yawen Li, Rethink Representation Learning for Questionnaire Data, AAAI 2026
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2026
 1. Rui Wang, Mengshi Qi, **Yingxia Shao**, Anfu Zhou, Huadong Ma, PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation. IEEE Trans. Mob. Comput. 25(4): 4876-4889, 2026
 1. Qingfeng Xiang, **Yingxia Shao**, Chenglin Tian, Quanqing Xu, Qiyao Luo, DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases, DASFAA 2026
