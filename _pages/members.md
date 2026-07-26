@@ -17,19 +17,20 @@ author_profile: true
 | 3 | Chenlin Tian | Ph.D | 2024 |
 | 4 | Xin Du | Ph.D | 2024 |
 | 5 | Qingfeng Xiang | Ph.D | 2022 (Msc)/2025 |
-| 6 | Chaofan Li | MSc | 2023 |
-| 7 | Siyu Lou | MSc | 2023 |
-| 8 | Xingzhi Jing | MSc | 2023 |
-| 9 | Qingliu Wu | MSc | 2024 |
-| 10 | Jiahe Wang | MSc | 2024 |
-| 11 | Siliang Li | MSc | 2024 |
-| 12 | Da Hu | MSc | 2024 |
-| 13 | Yubin Hong | MSc | 2025 |
-| 14 | Jiajun Liu | MSc | 2025 |
-| 15 | Qingbo Ge | MSc | 2025 |
-| 16 | Tengbiao Wu | MSc | 2025 |
-| 17 | Yulan Jin | MSc | 2025 |
-| 18 | Ningze Gao | MSc | 2025 |
+| 6 | Qingliu Wu | MSc | 2024 |
+| 7 | Jiahe Wang | MSc | 2024 |
+| 8 | Siliang Li | MSc | 2024 |
+| 9 | Da Hu | MSc | 2024 |
+| 10 | Yubin Hong | MSc | 2025 |
+| 11 | Jiajun Liu | MSc | 2025 |
+| 12 | Qingbo Ge | MSc | 2025 |
+| 13 | Tengbiao Wu | MSc | 2025 |
+| 14 | Yulan Jin | MSc | 2025 |
+| 15 | Ningze Gao | MSc | 2025 |
+| 16 | Yu Chen | MSc | 2026 |
+| 17 | Xinyan Li | MSc | 2026 |
+| 18 | Sen Wang | MSc | 2026 |
+| 19 | Shengjing Zhou | MSc | 2026 |
 
 ### Alumni
 
@@ -53,6 +54,10 @@ author_profile: true
 | 14 | Lixing Zhang | MSc | 2025 |  Ph.D, BUPT |
 | 15 | Duokang Wang | MSc (co-supervisor) | 2025 | Ant Group |
 | 16 | Hongyu He | MSc (co-supervisor) | 2025 | Meituan |
+| 17 | Chaofan Li | MSc | 2026 | BAAI |
+| 18 | Siyu Lou | MSc | 2026 | Tencent (Huanyuan) |
+| 19 | Xingzhi Jing | MSc | 2026 | Meituan |
+
 
 #### Bachelors
 
