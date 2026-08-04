@@ -11,15 +11,19 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% include base_path %}
 2026
 ====
-1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Haoyang Li, Lei Chen, Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling, VLDB 2026 (accepted)
-1. Hongzheng Li, Yucheng Wu, Junjie Zhai, Anan Liu, Yuekui Yang, **Yingxia Shao**, JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training, ICDE 2026 (accepted)
+1. Hongzheng Li, Siyu Lou, **Yingxia Shao**, Yawen Li, Lixing Zhang, Hongbo Yin, Wentao Zhang, Efficient Distributed Mini-batch GNN Training with Decentralized Batch Processing, TKDE (Accepted)
+1. Jinqing Lian, Chaofan Li, **Yingxia Shao**, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong, CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu, VLDB 2026
+1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Haoyang Li, Lei Chen, Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling, VLDB 2026
+1. Hongzheng Li, Yucheng Wu, Junjie Zhai, Anan Liu, Yuekui Yang, **Yingxia Shao**, JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training, ICDE 2026
 1. Chenglin Tian, Chaofan Li, Yawen Li, **Yingxia Shao**, LLMSQLMUTATOR: LLM-Powered Test Case Generation for Database Using Bug Reports, ICDE 2026 (accepted)
 1. Di Wang, Junping Du, Zhe Xue, Meiyu Liang, Guanhua Ye, **Yingxia Shao**, LI Haisheng, HFR-MKGC: Hierarchical Fusion Reasoning with MLLMs for Multi-modal Knowledge Graph Completion, AAAI 2026
 1. Guanhua Ye, Jifeng He, Yan Li, Junping Du, Zhe Xue, **Yingxia Shao**, Meiyu Liang, Yawen Li, Rethink Representation Learning for Questionnaire Data, AAAI 2026
+1. Yawen Li, Yan Li, Zhe Xue, **Yingxia Shao**, Meiyu Liang, Guanhua Ye, Beyond Metadata: CAPRA for Hidden Subgroup Analysis under Missing Metadata in Medical Imaging, ACM MM 2026
+1. Guanhua Ye, Niu Jingbin, Yan Li, Meiyu Liang, Zhe Xue, **Yingxia Shao**, Yawen Li, What Does Your Short-Answer VQA Score Actually Measure? Evaluator-Dependent Instability in Multimodal Short-Answer Benchmarks, ACM MM 2026
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2026
 1. Rui Wang, Mengshi Qi, **Yingxia Shao**, Anfu Zhou, Huadong Ma, PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation. IEEE Trans. Mob. Comput. 25(4): 4876-4889, 2026
 1. Qingfeng Xiang, **Yingxia Shao**, Chenglin Tian, Quanqing Xu, Qiyao Luo, DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases, DASFAA 2026
-1. Zhenyu Lin, Hongzheng Li, Guanhua Ye, Yawen Li, Meiyu Liang, **Yingxia Shao**, COIN: Graph Contrastive Learning with Orthogonal Continuous Augmentation and Information Balance, DSE 2026 (accepted)
+1. Zhenyu Lin, Hongzheng Li, Guanhua Ye, Yawen Li, Meiyu Liang, **Yingxia Shao**, COIN: Graph Contrastive Learning with Orthogonal Continuous Augmentation and Information Balance, DSE 2026
 
 2025
 ====
