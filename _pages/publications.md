@@ -9,13 +9,17 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <!-- {% endif %} -->
 
 {% include base_path %}
+2027
+====
+1. Jiahe Wang, **Yingxia Shao**, Shuhan Wang, Qingbo Ge, Hongzheng Li, Yucheng Zhang, Ascend-SpMM: Accelerating Sparse Matrix-Dense Matrix Multiplication on Ascend NPUs, PPoPP 2027 (Accepted)
+
 2026
 ====
-1. Hongzheng Li, Siyu Lou, **Yingxia Shao**, Yawen Li, Lixing Zhang, Hongbo Yin, Wentao Zhang, Efficient Distributed Mini-batch GNN Training with Decentralized Batch Processing, TKDE (Accepted)
+1. Hongzheng Li, Siyu Lou, **Yingxia Shao**, Yawen Li, Lixing Zhang, Hongbo Yin, Wentao Zhang, Efficient Distributed Mini-batch GNN Training with Decentralized Batch Processing, TKDE 2026 (Early Access)
 1. Jinqing Lian, Chaofan Li, **Yingxia Shao**, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong, CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu, VLDB 2026
 1. Xin Zhang, Yanyan Shen, **Yingxia Shao**, Haoyang Li, Lei Chen, Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling, VLDB 2026
 1. Hongzheng Li, Yucheng Wu, Junjie Zhai, Anan Liu, Yuekui Yang, **Yingxia Shao**, JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training, ICDE 2026
-1. Chenglin Tian, Chaofan Li, Yawen Li, **Yingxia Shao**, LLMSQLMUTATOR: LLM-Powered Test Case Generation for Database Using Bug Reports, ICDE 2026 (accepted)
+1. Chenglin Tian, Chaofan Li, Yawen Li, **Yingxia Shao**, LLMSQLMUTATOR: LLM-Powered Test Case Generation for Database Using Bug Reports, ICDE 2026
 1. Di Wang, Junping Du, Zhe Xue, Meiyu Liang, Guanhua Ye, **Yingxia Shao**, LI Haisheng, HFR-MKGC: Hierarchical Fusion Reasoning with MLLMs for Multi-modal Knowledge Graph Completion, AAAI 2026
 1. Guanhua Ye, Jifeng He, Yan Li, Junping Du, Zhe Xue, **Yingxia Shao**, Meiyu Liang, Yawen Li, Rethink Representation Learning for Questionnaire Data, AAAI 2026
 1. Yawen Li, Yan Li, Zhe Xue, **Yingxia Shao**, Meiyu Liang, Guanhua Ye, Beyond Metadata: CAPRA for Hidden Subgroup Analysis under Missing Metadata in Medical Imaging, ACM MM 2026
@@ -23,6 +27,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Chaofan Li, **Yingxia Shao**, Yawen Li, Zheng Liu, SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement, Front. Comput. Sci. 2026
 1. Rui Wang, Mengshi Qi, **Yingxia Shao**, Anfu Zhou, Huadong Ma, PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation. IEEE Trans. Mob. Comput. 25(4): 4876-4889, 2026
 1. Qingfeng Xiang, **Yingxia Shao**, Chenglin Tian, Quanqing Xu, Qiyao Luo, DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases, DASFAA 2026
+1. Siliang Li, Chaofan Li, Yawen Li, Henry Nguyen, Zheng Liu, and **Yingxia Shao**, ALeSeC: Adaptive Lexico-Semantic Collaboration Enhanced Iterative Query Rewriting for Information Retrieval, ICDM 2026
+1. Zhenhui pan, Junping Du, Zhe Xue, Guanhua Ye, **Yingxia Shao**, Zeli Guan, and Jia Wang, RFTF: Reinforcement Dynamic Client Optimization with Multi-scale Temporal Feature Decoupling for Federated Time Series Forecasting, ICDM 2026
+1. Yongqi Duan, Chaofan Li, Yawen Li, and **Yingxia Shao**, TRACER: An LLM-based Coarse-to-Fine Framework for Adaptive Network Traffic Classification, ICDM 2026
+1. Qingfeng Xiang, Xinyi Zhang, Shijie Wang, Haixin Wang, Baochuan Yang, **Yingxia Shao**, Towards Efficient Configuration Auto-Tuning of Apache Flink for Multiple Jobs, WISE 2026
 1. Zhenyu Lin, Hongzheng Li, Guanhua Ye, Yawen Li, Meiyu Liang, **Yingxia Shao**, COIN: Graph Contrastive Learning with Orthogonal Continuous Augmentation and Information Balance, DSE 2026
 
 2025
