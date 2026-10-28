@@ -32,6 +32,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. Yongqi Duan, Chaofan Li, Yawen Li, and **Yingxia Shao**, TRACER: An LLM-based Coarse-to-Fine Framework for Adaptive Network Traffic Classification, ICDM 2026
 1. Qingfeng Xiang, Xinyi Zhang, Shijie Wang, Haixin Wang, Baochuan Yang, **Yingxia Shao**, Towards Efficient Configuration Auto-Tuning of Apache Flink for Multiple Jobs, WISE 2026
 1. Zhenyu Lin, Hongzheng Li, Guanhua Ye, Yawen Li, Meiyu Liang, **Yingxia Shao**, COIN: Graph Contrastive Learning with Orthogonal Continuous Augmentation and Information Balance, DSE 2026
+1. Jiajun Liu, Dan Hu, Xinyan Li, and **Yingxia Shao**, MATE: A Materials-Aware Task-to-Code Extraction Framework for Alloy Literature, Special Session on Intelligent Data Mining at IEEE BigData 2026
 
 2025
 ====
